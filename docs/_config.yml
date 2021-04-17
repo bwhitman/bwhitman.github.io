@@ -44,11 +44,11 @@ texture:
     - title: Home
       url: "/"
   showNav: true
-  social_links:
-    email: brian@variogr.am
-    twitter: bwhitman
-    github:  bwhitman
-    linkedIn: in/brianwhitman # format: locale/username  
+  #social_links:
+  #  email: brian@variogr.am
+  #  twitter: bwhitman
+  #  github:  bwhitman
+  #  linkedIn: in/brianwhitman # format: locale/username  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
