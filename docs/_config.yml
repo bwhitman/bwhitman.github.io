@@ -35,14 +35,15 @@ plugins:
 show_excerpts: true
 
 texture:
-  style: blue
-  showPicker: true
+  style: red
   title: Brian Whitman
   tagline: hi
   date_format: "%b %-d, %Y"
   navigation:
     - title: About
-    - url: "/about"
+      url: "/about"
+    - title: Home
+      url: "/"
   showNav: true
   social_links:
     twitter: bwhitman
