@@ -32,19 +32,22 @@ github_username:  bwhitman
 remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
+show_excerpts: true
 
 texture:
   style: blue
+  showPicker: true
   title: Brian Whitman
   tagline: hi
   date_format: "%b %-d, %Y"
   navigation:
     - title: About
-      url: "/about"
+    - url: "/about"
+  showNav: true
   social_links:
     twitter: bwhitman
     github:  bwhitman
-    linkedIn: in/bwhitman # format: locale/username  
+    linkedIn: in/brianwhitman # format: locale/username  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
