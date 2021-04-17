@@ -37,7 +37,6 @@ show_excerpts: true
 texture:
   style: red
   title: Brian Whitman
-  tagline: hi
   date_format: "%b %-d, %Y"
   navigation:
     - title: About
@@ -46,6 +45,7 @@ texture:
       url: "/"
   showNav: true
   social_links:
+    email: brian@variogr.am
     twitter: bwhitman
     github:  bwhitman
     linkedIn: in/brianwhitman # format: locale/username  
