@@ -5,7 +5,7 @@ tags:
   - "archive"
 ---
 
-![](images/pushpin.png)  
+![](/images/pushpin.png)  
 Seven years ago Noah Vawter and I finished up “Pushpin,” a Gameboy Color MIDI adapter. Pushpin allowed you to compose music on a computer or sequencer and use the GBC as an instrument. You didn’t touch the GBC while it was playing other than to admire the fancy boot screen. It turned your $80 toy into a pretty good 4-bit waveform synth. Unfortunately, you probably don’t have one, let alone believe that it ever existed. I am finally releasing Pushpin to the wild. You can read on for the story of Pushpin or more directly touch the [Pushpin ‘product’ page for a download link and schematic.](http://variogr.am/latest/?page_id=31)
 
 Here’s the story…
@@ -23,7 +23,7 @@ The timing parts were painful yet satisfying. We were always so close: close eno
 To this day, Pushpin was the most exciting hack-project I’ve ever done. From conception to actual working device took roughly two weeks. I think I had a job at the time but I doubt I actually went into the office.
 
 **Aftermath**  
-![](images/treasure.gif)  
+![](/images/treasure.gif)  
 We released Pushpin in the style of the times — with a flashy website, lots of documentation and screenshots, some sound samples, and _no download link or information on purchase_. Noah and I had about four Pushpins between us. We were of course crushed with emails. For the first and probably last time I had successfully predicted the product for the audience.
 
 The main block with Pushpin was that it was a Game Boy cartridge. Nintendo doesn’t let just anyone mail them a romdump for them to sell in stores, and you can’t just let people download your thing. The point of existing-hardware hacks (like pspSeq / kick or iPhone things or Palm apps) is that you have a built in user base who doesn’t have to buy new hardware. But a Game Boy Cartridge bridges the gap between software and hardware. We had flash cart programmers, of course, but few others did. We simply never got it together other than buying 20 4Mb blanks from Bung in Hong Kong (!!) — somewhere in Noah’s apartment is a box full of these things. The required hardware (MIDI to serial board) was another issue — although Noah had made twenty laser-etched boards what would we do then? Nowadays pick and place and send-away-for-etching is a bit more common. Maybe the make-your-own-stuff-by-reading-O’Reilly-funded-websites movement is getting people more familiar with breadboards, they won’t need a kit.

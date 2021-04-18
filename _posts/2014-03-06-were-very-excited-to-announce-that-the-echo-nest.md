@@ -3,7 +3,7 @@ title: "The Echo Nest joins Spotify"
 date: "2014-03-06"
 ---
 
-[![](images/tumblr_inline_n1zjjaY2yq1qzn1md.png)](http://t.umblr.com/redirect?z=http%3A%2F%2Faps.s3.amazonaws.com%2FvXeGK.png&t=ZDAyNjYzN2UwOTkzOTVhYzRlZTlhMjFiY2JkNDZkOTM0M2JlZGZlZCw4amdKQ085Zw%3D%3D&b=t%3AwjfNZyWYw93f_2TQUIL_mw&m=1)
+[![](/images/tumblr_inline_n1zjjaY2yq1qzn1md.png)](http://t.umblr.com/redirect?z=http%3A%2F%2Faps.s3.amazonaws.com%2FvXeGK.png&t=ZDAyNjYzN2UwOTkzOTVhYzRlZTlhMjFiY2JkNDZkOTM0M2JlZGZlZCw4amdKQ085Zw%3D%3D&b=t%3AwjfNZyWYw93f_2TQUIL_mw&m=1)
 
 We’re very excited to announce that The Echo Nest is joining Spotify, starting today! We can’t imagine a better partner for our next chapter. Spotify shares the intense care for the music experience that was the founding principle of our company, and it’s clearly winning the hearts and minds of music fans around the globe. Our dedicated team of engineers, scientists, music curators, business, and product people are utterly electrified with the potential of bringing our world-leading music data, discovery, and audience understanding technology directly to the biggest music streaming audience out there.
 
@@ -25,4 +25,4 @@ For more information, see [our press release](http://t.umblr.com/redirect?z=http
 
 with Aaron, Elissa, Tim, Paul, Matt, Mark, Joe, Eliot, Kurt, David, Dave, Amanda, David, Connor, Shane, Ned, Owen, Ellis, Andreas, Glenn, Joe, Dan, Nick, Aaron, Chris, Aaron, Stu, Kevin, Jason, Ajay, Michelle, Jyotsna, James, Hunter, Erich, Andrew, Nicola, Scott, John, Matt, Matt, Eric, Dylan, Eli, Michael, Adam, Alex, Colin, Jonathan, Marni, Smith, Krystle, Eric, Ben, Conor, Victor, Ryan, Bo, Michael, Athena, Chris, Gurhan, Peter, Kate, Bo, Scott, Jared, Darien, Matt, and Wayne.
 
-[![](images/tumblr_inline_n1zjkd0hz51qzn1md.png)](http://t.umblr.com/redirect?z=http%3A%2F%2Faps.s3.amazonaws.com%2Fa20zn.png&t=OGY1YWRkMjBjNmFhZWE2YTk3MzdiYzJlOWY1MWU4NDJlZmU2ZGE3YSw4amdKQ085Zw%3D%3D&b=t%3AwjfNZyWYw93f_2TQUIL_mw&m=1)
+[![](/images/tumblr_inline_n1zjkd0hz51qzn1md.png)](http://t.umblr.com/redirect?z=http%3A%2F%2Faps.s3.amazonaws.com%2Fa20zn.png&t=OGY1YWRkMjBjNmFhZWE2YTk3MzdiYzJlOWY1MWU4NDJlZmU2ZGE3YSw4amdKQ085Zw%3D%3D&b=t%3AwjfNZyWYw93f_2TQUIL_mw&m=1)

@@ -7,7 +7,7 @@ A few years ago I gave this talk at the very impressive NAE [“Frontiers of Eng
 
 _Presented at NAE Frontiers of Engineering, 2010_
 
-![Front](images/aUQZD.png)
+![Front](/images/aUQZD.png)
 
 Scientists and engineers around the world have been attempting something undeniably impossible– and yet, no one could ever question their motives. Laid bare, the act of “understanding music” by a computational process feels offensive. How can something so personal, so rooted in context, culture and emotion, ever be discretized or labeled by any autonomous process? Even the ethnographical approach – surveys, interviews, manual annotation – undermines the raw effort by the artists, people who will never understand or even perhaps take advantage of what is being learned and created with this research. Music by its nature resists analysis. I’ve led two lives in the past ten years– first as a “very long-tail” musician and artist, and second as a scientist turned entrepreneur that currently sells “music intelligence” data and software to almost every major music streaming service, social network and record label. How we got there is less interesting than what it might mean for the future of expression and what we believe machine perception can actually accomplish.
 

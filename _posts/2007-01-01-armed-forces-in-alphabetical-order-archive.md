@@ -6,7 +6,7 @@ tags:
   - "carryover"
 ---
 
-![](images/hungraa.jpg)
+![](/images/hungraa.jpg)
 
 An enormous global pet peeve since Digital Music collapsed from long unsegmented strings of PCM into inodes on a filesystem is _Armed Forces in Alphabetical Order._ The first ID3 spec, meant to associate the audio-only information in the MPEG stream with some “real world” characteristics, was pitiful: audio gets 1MB per minute but the concordant ground truth was allowed only 128 bytes. We allowed 30 for artist, 30 for album, 30 for song title, 30 for ‘comment,’ four for year, three for a header, and one tiny byte for genre (I guess they got one thing right, anyone who ever disagreed with me on the futility of genres need only to glance at the [original genre specification](http://lame.sourceforge.net/doc/html/id3.html), which thoughtfully included an entry for “Primus.” It looks like they had room for about 108 more artists, I could have given them an ordered list.)
 

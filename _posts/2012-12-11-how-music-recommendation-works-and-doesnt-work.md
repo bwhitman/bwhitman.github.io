@@ -11,7 +11,7 @@ tags:
 
 When you see an automated music recommendation do you assume that some stupid computer program was trying to trick you into something? It’s often what it feels like – with what little context you get with a suggestion on top of the postmodern insanity of a _computer understanding how should you feel about music_ – and of course sometimes you actually are being tricked.
 
-![Amazons recommendations for Abbey Road](images/tIxHS.png)
+![Amazons recommendations for Abbey Road](/images/tIxHS.png)
 
 _Amazon’s recommendations for Abbey Road_
 
@@ -72,13 +72,13 @@ The latter two, acoustic and textual analysis, were developed by the field as a 
 
 The dominating principle of the Echo Nest discovery approach from day one has been “care and scale.” When Tristan and I started the company in 2005 we were two guys with fresh PhDs on music analysis and some pretty good technological solutions; Tristan’s in the acoustic analysis realm (a computer taking a signal and making sense of it) and mine in the data mining and language analysis space (understanding what people are saying and doing with music.) We surveyed the landscape at the time for discovery and found that almost every one suffered from either a lack of care or scale, sometimes (and often) both. The entire impetus of doing a startup (not an easy choice for two scientists and anyone that has met us knows we are not the “startup type”) was that we thought we had something between the two of us that could fix those two problems.
 
-![](images/carescale.007.png)
+![](/images/carescale.007.png)
 
 _Care & Scale_
 
 Scale is easy to explain: you have to know about as much music as possible to make good recommendations. If you don’t know about an up and coming artist, you can’t recommend them. If you only analyze or rate or understand the popular stuff you by default fail at discovery. Manual discovery approaches by their nature do not scale. We track over two million artists and over 30 million songs and there is no way a manually curated database can reach that level of knowledge. Even websites that can be volunteer or community edited run against the limits of the community that takes part – we count only a little over 130,000 artist pages on Wikipedia. Pandora recently crossed the 1 million song barrier, and it took them 10 years to get there. Try any hot new artist in Pandora and you’ll get the dreaded:
 
-![](images/j7zOw.png)
+![](/images/j7zOw.png)
 
 _Pandora not knowing about YUS_
 
@@ -86,21 +86,21 @@ This is Pandora showing its lack of scale. They won’t have any information for
 
 Activity data approaches (such as Last.fm and Amazon and iTunes Genius) also suffer from a slighter scale problem that manifests itself in a different way. It’s trivial to load a database of music into an activity data-based discovery engine (such as collaborative filtering or social tags.) I’ve often gone after such naive approaches to music discovery publicly. If a website or store has a list of user data (user A bought / listened to song Y at time Z) any bright engineer will immediately go into optimization mode. There’s almost a duplicitous ease of recommending music to people poorly. I recently was shopping for a specific type of transistor for a project on a parts and components website and found they, too, had turned on the SQL join that allowed “recommendations” on their site based on activity data:
 
-![Pathological filtering](images/LNfGs.png)
+![Pathological filtering](/images/LNfGs.png)
 
 _Pathological filtering_
 
 Other than activity not making much sense in a discovery context, by default these systems suffer a “popularity bias,” where a lot of music simply doesn’t have enough activity data yet collected to be considered a recommendation match. Activity based systems can only know what people have told them explicitly, and this often makes it hard for less-popular artists to be recommended.
 
-_Care_ is a trickier concept and one we’ve tried very hard to define and encode into our engineering and product. I translate it as _“is this useful for the musician or listener?”_A great litmus test for care in music discovery is to check the similar artists or songs to The Beatles. Is it just the members of the Beatles and their side projects? For almost all services that use musical activity data, it will be:
+_Care_ is a trickier concept and one we’ve tried very hard to define and encode into our engineering and product. I translate it as _“is this useful for the musician or listener?”_ A great litmus test for care in music discovery is to check the similar artists or songs to The Beatles. Is it just the members of the Beatles and their side projects? For almost all services that use musical activity data, it will be:
 
-![Top artist similars are all members of the Beatles](images/i40ES.png)
+![Top artist similars are all members of the Beatles](/images/i40ES.png)
 
 _Top artist similars are all members of the Beatles_
 
 Certainly a statistically correct result[\[3\]](3 "see footnote"), but not a musically informative one. There is so much that user data can tell you about listening habits, but blindly using it to inform discovery belies a lack of care about the final result. Care is neatly handled by using social, manual or editorial approaches, as humans are pretty good at treating music properly. But when using more statistical or signal processing approaches that know about more music at scale, care has to be factored in somehow. Most purely signal processing approaches (such as Mufin here) fall down as badly on care as activity data approaches do:
 
-![Mufin expressing so little care about Stairway to Heaven](images/CLPvt.png)
+![Mufin expressing so little care about Stairway to Heaven](/images/CLPvt.png)
 
 _Mufin expressing so little care about Stairway to Heaven_
 
@@ -108,13 +108,13 @@ Care is a layer of quality assurance, editing and sanity checks, real-world usag
 
 Without both care and scale you’ve got a system that a listener can’t trust and that musician can’t use to find new fans. You’ve failed both of your intended audiences and you might as well not try at all.
 
-![](images/carescale.008.png)
+![](/images/carescale.008.png)
 
 _Care & Scale of common approaches_
 
 ## Text Analysis
 
-![Echo Nest Cultural vectors](images/M0MW1.png)
+![Echo Nest Cultural vectors](/images/M0MW1.png)
 
 _Echo Nest Cultural vectors_
 
@@ -122,7 +122,7 @@ I started doing music analysis work in 1999 at the NEC Research Institute in Pri
 
 I was there while figuring out what to do with myself after abruptly quitting my PhD program in NLP at Columbia. I was a musician at the time, playing a lot of shows at various warehouse spaces or the lamented late “Brownies,” places where 20 people might show up and 10 would know who you were. There was a lot of excitement about “the future of music” – far more than there is today, as somehow we felt that the right forces would win and quickly. I logged onto Napster for the first time from a DSL connection and practically squealed in delight as a song could be downloaded faster than the time it would take to listen to it. It was a turning point for music access, but probably a step back for music _discovery_. We were still stuck with this:
 
-![Napster in 2001](images/B3vO5.png)
+![Napster in 2001](/images/B3vO5.png)
 
 _Napster in 2001_
 
@@ -142,7 +142,7 @@ A lot of useful data naturally falls out of cultural analysis of music: the quan
 
 ## Acoustic Analysis
 
-![Echo Nest acoustic analysis view](images/JXCHA.png)
+![Echo Nest acoustic analysis view](/images/JXCHA.png)
 
 _Echo Nest acoustic analysis view_
 
@@ -164,7 +164,7 @@ I’ve used every single automated music recommendation platform, technology or 
 
 ### Social – filtering collaborative filtering
 
-![This is my jam](images/OjxJv.png)
+![This is my jam](/images/OjxJv.png)
 
 _This is my jam_
 

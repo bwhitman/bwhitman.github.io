@@ -3,7 +3,7 @@ title: "A Singular Christmas (2004)"
 date: "2009-11-30"
 ---
 
-![](images/xmas2.png "Omnigraffle chart of the ASC process")
+![](/images/xmas2.png "Omnigraffle chart of the ASC process")
 
 Five years ago today I released “A Singular Christmas,” the rendered output of a piece of software that listened to hundreds of Christmas songs and tried to compose its own new holiday standards. It ended up as my most successful thing ever by a few orders of magnitude: 600,000 people downloaded it over the space of three weeks. I was on BBC Radio on Christmas Eve; Wired Magazine tried to arrange a photograph of me at a club performing on top of a rack of servers; Pitchfork reviewed it well. Quite parenthetically, “A Singular Christmas” has been to date the last major piece of music I worked on: the weird excitement behind it was my main driver for turning down “safe” jobs to start [The Echo Nest](http://the.echonest.com) with Tristan a few months later, and that enterprise has changed my priorities in ways I couldn’t have predicted.
 
@@ -25,7 +25,7 @@ If you want to download the whole thing as a .zip file, [here you are, it’s 61
 
 ## Statement and Methodology
 
-![](images/snow_sm.jpg "Background of original ASC page")
+![](/images/snow_sm.jpg "Background of original ASC page")
 
 Holiday music is the first broadcast of the season. Much like the sudden alert of spring birds, the forces that schedule, produce and filter Christmas hymns from back catalogues and metal shelves in storage lockers out to 8 inch mono white grilled speakers beamformed onto precisely calculated endcaps are a fantastic mystery that is never asked to reveal itself. The truth is surely offensive, some pressed shirt with a copy of SPSS pastes the predicted launch dates and harmonies into a memo and forwards it to General Marketing. I’ve seen their mood circumplex for every chromatic jingle plotted over revenue– it’s in a Microsoft Office 95 file, the fonts look awful and only prints on legal paper. Rest assured that they’ve ran the numbers– they have the data. It’s the only genre that lets musicologists and A&R guys sit in the same room.
 
@@ -33,7 +33,7 @@ As a result, whether we participate or not, we are trained to associate the marc
 
 So then what is special about Christmas music? Let’s take the nativist view– that there is something in the composition, construction, timbre or production in every popular Christmas song that makes it fit into the genre. Some predefined, baked in, Chomsky grammar style language of melodies and instruments. So play a Christmas song to someone who’s never experienced a Christmas before. What do they feel? Do they rush out and buy spray-on snow? I never got around to doing the study. What I could do is try to distill holiday music down to its barest essentials. My hypothesis was that if we could figure out the dominant components of Christmas music, and train a system looking only at the audio to make more of it from those components, and if that new music passes the Turing test of the general public considering it Christmas music, then yes, we’ve cracked the code — we can have Holiday Forever, a Singular Christmas.
 
-![](images/sheba.jpg "Sheba and Kristie in front of the ASC Cluster")  
+![](/images/sheba.jpg "Sheba and Kristie in front of the ASC Cluster")  
 _Sheba and Kristie in front of the rack of servers used to render A Singular Christmas.  
 MIT Media Lab, November 2004_
 
@@ -55,7 +55,7 @@ So A Singular Christmas is the reduction of dozens of holiday songs, from grim c
 - [Not-so-positive review in Salon](http://static.echonest.com/b/salonreview.png)
 - [The .zip file of all the tracks comes with this “cover art.”](http://static.echonest.com/b/eigenflakes.pdf)
 
-![](images/flake_28.png "Eigenflake")
+![](/images/flake_28.png "Eigenflake")
 
 A Singular Christmas (ASC) started as an experiment meant to go in my dissertation to see if a computer could determine automatically if a song is a holiday song. It’s actually a very hard task and I really hope [MIREX](http://www.music-ir.org/mirex/2009/index.php/Main_Page) takes it up sometime. Like most things I gave up on the science part once I realized how pretty the inversions were.
 

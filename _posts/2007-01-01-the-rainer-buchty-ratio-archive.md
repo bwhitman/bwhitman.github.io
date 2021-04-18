@@ -5,7 +5,7 @@ tags:
   - "archive"
 ---
 
-![](images/buchty.png)The original “Web2.0 AJAX Popup” was the amazing Rainer Buchty’s [Create your own customized SQ80 OS V1.8 version](http://itec.uka.de/~buchty/sq80/customize.html) (CYOCSOV), online since at least 1998. Those were heady times, when a reluctant genius could release a Web Application that provided a real _value-add_ for Ensoniq SQ80, ESQ-1, or ESQ-M (NOT SQ1) owners. CYOCSOV (too many letters– has to be “four letters, many vowels” — let’s say SqaT –) performed the valuable Web Service of generating a new firmware for these three hybrid analog-digital synths.
+![](/images/buchty.png)The original “Web2.0 AJAX Popup” was the amazing Rainer Buchty’s [Create your own customized SQ80 OS V1.8 version](http://itec.uka.de/~buchty/sq80/customize.html) (CYOCSOV), online since at least 1998. Those were heady times, when a reluctant genius could release a Web Application that provided a real _value-add_ for Ensoniq SQ80, ESQ-1, or ESQ-M (NOT SQ1) owners. CYOCSOV (too many letters– has to be “four letters, many vowels” — let’s say SqaT –) performed the valuable Web Service of generating a new firmware for these three hybrid analog-digital synths.
 
 When you’re an electronic musician, you always want to know that your stuff can sound different from other people’s stuff. It only took $200 and a Western Union fee to get my ESQ-M and enabling the “Hidden Waveforms” checkbox in SqaT sounded like the ticket. Kid606, Cex, Luckykitchen, Unagi Patrol, Zammuto, Colognib, Lexaunculpt, Data”chi, Cathars– don’t mind me as I take a trip down 1999 indie IDM lane– those guys would be proper FLUMMOXED. I’d get up there at Brownie’s on a Wednesday and show Toddy-Rock what was who. Maybe someone would come to the gig.
 
