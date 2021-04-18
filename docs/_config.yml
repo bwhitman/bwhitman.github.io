@@ -29,7 +29,7 @@ github_username:  bwhitman
 
 # Build settings
 #theme: minima
-remote_theme: bwhitman/texture
+remote_theme: bwhitman/taunt-jekyll
 plugins:
   - jekyll-feed
 show_excerpts: true
