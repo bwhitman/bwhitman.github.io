@@ -39,6 +39,18 @@ img {
     }
 }
 
+img.big {
+    height: auto;
+    left: calc(50% - 500px);
+    position: relative;
+    width: 1000px;
+
+    @media(max-width:1000px) {
+        left: auto;
+        width: 100%;
+    }    
+}
+
 nav {
     ul {
         list-style: none;

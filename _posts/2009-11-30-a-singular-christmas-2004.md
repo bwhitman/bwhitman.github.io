@@ -18,9 +18,9 @@ Enjoy, happy holidays, [please write](mailto:brian@echonest.com), xo, -b
 
 ## Listen and download
 
-\[soundcloud url="https://api.soundcloud.com/playlists/58785" params="auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&visual=true" width="100%" height="450" iframe="true" /\]
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58785&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bwhitman" title="bwhitman" target="_blank" style="color: #cccccc; text-decoration: none;">bwhitman</a> · <a href="https://soundcloud.com/bwhitman/sets/a-singular-christmas" title="A Singular Christmas" target="_blank" style="color: #cccccc; text-decoration: none;">A Singular Christmas</a></div>
 
-\[spotify id="spotify:album:4Jq0b34KjlBdAvb3pRcS0u" width="300" height="380" /\]
+<iframe src="https://open.spotify.com/embed/album/4Jq0b34KjlBdAvb3pRcS0u" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 If you want to download the whole thing as a .zip file, [here you are, it’s 61MB.](http://static.echonest.com/b/A_Singular_Christmas.zip)
 
