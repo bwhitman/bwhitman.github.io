@@ -25,13 +25,13 @@ There’s a lot of DSP power on the XMOS chip, and we should be able to tweak pa
 
 The code uses the hidapi library to access USB HID registers on the mic array device. You can write or read to USB HID registers using a pretty straightforward socket-style approach. For example, reading the status of something (say, the automatic gain controls’ current dB, or the state of an onboard LED) involves writing to a request register and then reading it back:
 
-https://gist.github.com/bwhitman/6046e02c77938e8b01e93fbb5ecc68f2
+<script src="https://gist.github.com/bwhitman/6046e02c77938e8b01e93fbb5ecc68f2.js"></script>
 
 Luckily, the developers behind the ReSpeaker uploaded a Microsoft Excel file to one of their GitHub repositories with all of the existing registers that their firmware supports. It’s a bit hard to read, [but here it is in CSV form](https://gist.github.com/bwhitman/db16df744ee1065e5a7132e611dfdcb4). 
 
 You can see you have access to a lot of LED control, and then all sorts of parameters involving beamforming, reverb, echo removal, noise removal, gain control, delay estimation, VAD status, and voice angle. Voice angle and VAD are great demos of a microphone array: one can predict from the arrival of data (aka TDOA) into each microphone where the angle of approach of the sound is. Likely, the XMOS firmware is using a variant of [GCC-PHAT](http://www.xavieranguera.com/phdthesis/node92.html). Here’s a run of the Python script where I stood around the microphone at different positions in my office:
 
-https://gist.github.com/bwhitman/886d5081720aa2a76368e5fed50875a0
+<script src="https://gist.github.com/bwhitman/886d5081720aa2a76368e5fed50875a0.js"></script>
 
  Note that in this [Python example](https://github.com/bwhitman/respeaker-xmos-hid/blob/master/listen_and_get_position.py) I’m using a “auto report” register: this is data being sent by the USB HID (the ReSpeaker mic array) no matter if it is being asked for or not, on register 0xFF. In this case, the mic array is broadcasting the very useful data of VAD status (“is there voice coming in right now”) and voice angle (“where is the voice coming from?”) as soon as the VAD status changes, without the USB host having to ask for it. You can also simply ask for the angle or VAD status by querying the registers whenever you want.
 
