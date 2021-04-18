@@ -22,7 +22,7 @@ Have all that? Now, find a place to put the plotter, run the plotter cable from 
 
 In 2008 I was bitten by the plotter bug all of a sudden. I was trying to draw a smooth bezier curve robotically and was looking at various servo or motor solutions when I stumbled on the community of folks that have adapted Roland pen plotters into vinyl cutting CNC machines. I found myself intensely bidding on my first plotter against a familiar eBay username. After I lost, I confirmed my suspicions: I was in competition with my dear friend [Douglas Repetto](http://music.columbia.edu/~douglas/) of CMC & dorkbot fame. And not only was he also independently plotter crazed, he was working on a Python module for HPGL control called, well, [Chiplotle!](http://chiplotle.org). Maybe there was something in the water that week.
 
-![Chiplotle!](images/chiplotle_logo_2.png)
+![Chiplotle!](/images/chiplotle_logo_2.png)
 
 Chiplotle is obviously the best and only way to reliably control a plotter from a modern computer. It does quite a lot of work for you: it manages the commandset of your plotter, buffers output so it doesn’t overflow and start drawing random straight lines, provides a interactive terminal where you can “live draw” and a bunch of other necessary stuff. Although you can import chiplotle into your program and programatically control your plotter, I tend to use just one commandset of Chiplotle – the plot\_hpgl\_file script that it installs.
 
@@ -38,4 +38,4 @@ plot_hpgl_file.py output.hpgl
 
 Obviously I could have my python program directly control the plotter, but as ink and paper add up, you will want a step in between to make sure your art is OK, and the PDF step is natively viewable on any platform. Since PDF and HPGL both share a lot of common ancestry, the curveTos, lineTos and moveTos are kept consistent with no loss of quality. There’s no rasterizing step: if you generate curves programatically with ReportLab, they will be the same curve on the paper in the plotter.
 
-![Owls](images/20120812-kuqixaqy85n1f9iqgim7qu6egb.jpg)
+![Owls](/images/20120812-kuqixaqy85n1f9iqgim7qu6egb.jpg)
