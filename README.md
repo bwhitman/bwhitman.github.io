@@ -1,3 +1,0 @@
-# bwhitman.github.io
-no
-
