@@ -1,10 +1,30 @@
 ---
 layout: page
-title: A minimal blogging theme
+title: About
 ---
 
-<p class="lead">I'm Bradley Taunt, a designer/developer hybrid, and this the Jekyll theme used on <a href="https://taunt-jekyll.netlify.com">taunt-jekyll.netlify.com</a>.</p>
+<p>I&#8217;m <a href="https://scholar.google.com/citations?user=eiTakp4AAAAJ&amp;hl=en">a scientist</a> (machine learning, music understanding, recommendation, information retrieval) and <a href="https://notes.variogr.am/2016/11/16/leaving-spotify-the-echo-nest/">a startup person</a>.  I was the co-founder &amp; CTO of the Echo Nest, sold to Spotify, where I was Principal Scientist for a few years until 2016, mostly focusing on <a href="https://notes.variogr.am/2015/07/31/fresh-finds/">discovery of brand new music</a>. I was then founder &amp; CEO of <a href="https://canopy.cr/">Canopy</a>, focusing on privacy and personalization. Canopy was acquired by CNN in March 2020; I&#8217;m currently helping out there on some exciting brand new bets around news personalization and creators.</p>
 
-I work as the Senior Product Designer at Benbria in Ottawa. My passion lies in building reusable and maintainable CSS, with a focus on accessibility and web performance. Articles written on this site are a reflection of that passion.
 
-Have questions or suggestions? Feel free to hit me up on [Twitter](https://twitter.com/bradtaunt). Interested in some of my open source projects? Check out my [repos](https://github.com/bradleytaunt).
+
+<p>I was an <a href="https://notes.variogr.am/2009/11/30/a-singular-christmas-2004/">artist / musician</a> (ex-&#8220;<a href="https://soundcloud.com/bwhitman">Blitter</a>&#8220;) from the late 90s through mid-00s, I still work on small music projects from time to time. </p>
+
+
+
+<p>I work on many hardware side projects, mostly centered around audio, speech and machine learning. I am currently developing a distributed mesh music synthesizer and a portable creative computing platform.</p>
+
+
+
+<p>I received a masters degree in computer science focusing on natural language processing from Columbia University in 2000, then a PhD in machine learning and music understanding at the MIT Media Lab in 2005. </p>
+
+
+
+<p>I live in Fort Greene, Brooklyn, and <a href="https://en.wikipedia.org/wiki/Quadra_Island">Quadra Island</a>, BC, Canada. </p>
+
+
+
+<p>You can reach me over email &#8212; <a href="mailto:brian@variogr.am">brian@variogr.am</a></p>
+
+
+
+<p>You can also <a href="https://twitter.com/bwhitman">follow me on Twitter</a>. (But I&#8217;m currently on a long, and highly recommended break from all social media, apologies!)</p>

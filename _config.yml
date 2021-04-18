@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               'Brian Whitman'
 url:                 https://bwhitman.github.io
-tagline:             Hi
+#tagline:             Hi
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
