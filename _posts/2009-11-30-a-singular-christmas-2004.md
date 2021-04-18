@@ -4,7 +4,7 @@ title: "A Singular Christmas (2004)"
 date: "2009-11-30"
 ---
 
-![](/images/xmas2.png "Omnigraffle chart of the ASC process")
+<img src="/images/xmas2.png" class="big">
 
 Five years ago today I released “A Singular Christmas,” the rendered output of a piece of software that listened to hundreds of Christmas songs and tried to compose its own new holiday standards. It ended up as my most successful thing ever by a few orders of magnitude: 600,000 people downloaded it over the space of three weeks. I was on BBC Radio on Christmas Eve; Wired Magazine tried to arrange a photograph of me at a club performing on top of a rack of servers; Pitchfork reviewed it well. Quite parenthetically, “A Singular Christmas” has been to date the last major piece of music I worked on: the weird excitement behind it was my main driver for turning down “safe” jobs to start [The Echo Nest](http://the.echonest.com) with Tristan a few months later, and that enterprise has changed my priorities in ways I couldn’t have predicted.
 
@@ -62,6 +62,6 @@ A Singular Christmas (ASC) started as an experiment meant to go in my dissertati
 
 The original thank-you line on ASC’s webpage is gone, but I bet it said: “Kelly Dobson, Victor Adan, Barry Vercoe, Keith Fullerton Whitman, Dan Ellis.” [Dan](http://www.ee.columbia.edu/~dpwe) especially, as his MQ-resynthesis matlab code was crucial to the enterprise. KFW provided a large % of the sample bank known as “all Possible Sounds” that ASC rendered from; Kelly was a big help with editing, sequencing and general art inspiration; Barry of course as my advisor foot the institutional “bill” for the computers and is somewhat a personal hero of mine; Victor I am sure paced around a lot and told me how much better it could have been if I embodied Schenkerian analysis into the algorithm.
 
-<
 
-p>My personal favorite on this record is the last track, “[Holy Night](http://soundcloud.com/bwhitman/16-holy-night),” which is a bit different from the rest. As a test I only trained it on versions of “Silent Night” in the collection. The output– sort of a 90 second vamp on three notes in a verse with the “orchestra” spinning around it trying to anneal in– is to me everything that is beautiful about this sort of automatic music.
+
+<p>My personal favorite on this record is the last track, “[Holy Night](http://soundcloud.com/bwhitman/16-holy-night),” which is a bit different from the rest. As a test I only trained it on versions of “Silent Night” in the collection. The output– sort of a 90 second vamp on three notes in a verse with the “orchestra” spinning around it trying to anneal in– is to me everything that is beautiful about this sort of automatic music.
