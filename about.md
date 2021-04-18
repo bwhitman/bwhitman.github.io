@@ -9,7 +9,7 @@ title: About
 
 <p>I work on many hardware side projects, mostly centered around audio, speech and machine learning. I am currently developing a distributed mesh music synthesizer and a portable creative computing platform.</p>
 
-<p>I received an MS in computer science, focusing on natural language processing, from Columbia University in 2000, then a PhD in machine learning and music understanding at the MIT Media Lab in 2005. </p>
+<p>I received an MS in computer science, focusing on natural language processing, from Columbia University, then a PhD in machine learning and music understanding at MIT.</p>
 
 <p>I live in Fort Greene, Brooklyn, and <a href="https://en.wikipedia.org/wiki/Quadra_Island">Quadra Island</a>, BC, Canada. </p>
 
