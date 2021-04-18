@@ -8,6 +8,7 @@ url:                 https://bwhitman.github.io
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
+markdown: kramdown 
 
 # Includes
 include:
