@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I want to know the size and temperature of bread while it rises"
 date: "2015-07-12"
 ---

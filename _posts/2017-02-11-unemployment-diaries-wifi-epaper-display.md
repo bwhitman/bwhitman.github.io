@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Unemployment Diaries: WiFi ePaper display"
 date: "2017-02-11"
 ---
@@ -7,7 +8,7 @@ date: "2017-02-11"
 
 As you may have heard I’ve been having some [on-purpose downtime](https://notes.variogr.am/2016/11/16/leaving-spotify-the-echo-nest/) to catch up a bit on some personal projects. My time off has been a bit more existential than I initially planned on:
 
-https://twitter.com/missokistic/status/796870708412358657
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">*wakes up and looks at phone*<br>ah let&#39;s see what fresh horrors await me on the fresh horrors device</p>&mdash; Miss O&#39;Kistic (@missokistic) <a href="https://twitter.com/missokistic/status/796870708412358657?ref_src=twsrc%5Etfw">November 11, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But it’s been going well, thank you for asking! I’ve been keeping busy / distracted by finally clearing out a long stack of personal projects, none with any commercial potential. I’ve noticed something interesting — when others use the word “hobbies” to describe what I’m up to, I recoil in fear, but I simultaneously downplay everything I work on in my studio in Greenpoint as temporary and “just for fun.” I should probably just own what I’m doing a bit more: it is _OK_ to do things that won’t end up changing the world. I see it as catch-up education after not building something I could touch for many, many years. 
 

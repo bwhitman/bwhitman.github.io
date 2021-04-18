@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Walk to work"
 date: "2015-07-12"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Armed Forces in Alphabetical Order [archive]"
 date: "2007-01-01"
 tags: 

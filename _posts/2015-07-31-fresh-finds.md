@@ -1,15 +1,15 @@
 ---
+layout: post
 title: "Understanding the brand new"
 date: "2015-07-31"
 ---
 
-#
 
 <a href="https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWjGdmeTyeJ6"><img src='/images/LMfSS.png' width=500></a>
 
 Today, my favorite personal project at Spotify since the acquisition is getting soft-launched alongside a [great long piece in Fast Company about discovery at Spotify](http://www.fastcompany.com/3049231/tech-forecast/inside-spotifys-plan-to-take-on-apple-music): “[Fresh Finds](https://open.spotify.com/user/spotify/playlist/3rgsDhGHZxZ9sB9DQWQfuf),” a weekly updated playlist of music that no one has heard yet but will break out soon. The playlist is powered by the careful and passionate work of a small team at Spotify: Kurt Jacobson, Athena Koumis, Jason Steinbach, Dan Stowell, and myself.
 
-<img src=/images/fm1qE.png width=500>
+<img src="/images/fm1qE.png" width=500>
 
 “Fresh Finds” is made possible by a scalable analysis of the musical activity happening _outside_ Spotify: daily, we automatically find artists people are talking about on music blogs and news sites more often and with more intensity than their playcounts should suggest. These are the artists that find fans through word-of-mouth, shows and the hard work of making unique music that connects to at least one person. We then filter those artists through a real time analysis of Spotify listening behavior and weekly generate a list of brand new songs that we think we will gain in popularity the next week.
 

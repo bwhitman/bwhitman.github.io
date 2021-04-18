@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "\"Build your own Echo?\" The ReSpeaker mic array"
 date: "2017-01-27"
 ---

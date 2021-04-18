@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Music data talk at Velocity EU"
 date: "2012-10-23"
 ---

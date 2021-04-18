@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Echo Nest joins Spotify"
 date: "2014-03-06"
 ---

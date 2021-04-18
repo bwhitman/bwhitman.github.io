@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Singular Christmas (2004)"
 date: "2009-11-30"
 ---

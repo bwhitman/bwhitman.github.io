@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How music recommendation works -- and doesn't work"
 date: "2012-12-11"
 tags: 

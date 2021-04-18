@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Very large scale music understanding talk @ NAE Frontiers"
 date: "2013-11-23"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Talk about A Singular Christmas at the Automatic Music Hackathon"
 date: "2013-12-10"
 ---

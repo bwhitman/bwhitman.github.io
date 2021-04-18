@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Pushpin is Real [archive]"
 date: "2007-01-01"
 tags: 

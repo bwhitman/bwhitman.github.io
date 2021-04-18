@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "1980s pen plotters of the future"
 date: "2012-08-12"
 ---

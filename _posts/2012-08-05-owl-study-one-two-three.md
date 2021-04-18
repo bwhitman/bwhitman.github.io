@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Owl study"
 date: "2012-08-05"
 ---
