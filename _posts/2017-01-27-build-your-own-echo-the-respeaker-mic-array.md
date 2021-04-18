@@ -5,7 +5,7 @@ date: "2017-01-27"
 
 Like so many of you, I visited family over the holidays to find their home riddled with talkative but useful voice control devices from Google and Amazon. It’s still striking to me how good the speech recognition layer has gotten, especially the acoustic interface. Sure, all the underlying neural networks cutting HMMs off at the knees humming along on banks of GPUs are very interesting, but do you even know how many [microphones the Amazon Echo has?](https://www.ifixit.com/Teardown/Amazon+Echo+Teardown/33953#s79355) Seven! There’s a lot of DSP that happens before the audio gets to Amazon’s servers: beamforming, de-reverberation / echo removal, noise canceling, voice activity detection, localization. The magic that lets the Echo talk with you from across the room owes as much to acoustic & DSP engineering as “machine learning.” And those microphones have a lot to do with it.
 
-![IMG 1883](images/img_1883.jpg "IMG_1883.JPG")
+![IMG 1883](/images/img_1883.jpg "IMG_1883.JPG")
 
 I’ve given a lot of thought to voice & natural language interfaces over the years and multi-microphone voice activity detection (VAD) in particular; I’ve been working on a related hardware project that I hope I can describe soon. In the meantime, I thought I’d see what I can learn about the state of the art in multi-microphone consumer hardware. It’s sadly a bit too hard to crack open an Echo or Home and fiddle with the individual microphones or the DSP processor. But a few months ago, the [ReSpeaker Kickstarter](https://www.kickstarter.com/projects/seeed/respeaker-an-open-modular-voice-interface-to-hack) caught my attention. I’m innately suspicious of most crowd-funded electronics but the company behind it, Seeed, has shipped before. I knew I’d get _something_ relatively on time, even if it’d be a just-out-of-alpha board with no documentation or useful code. And I did: although delivery was promised for November, I got the package from Shenzhen just last week.
 
@@ -13,7 +13,7 @@ The ReSpeaker package is two things: a MediaTek WiFi MIPS processor running Linu
 
 The first thing I did with the ReSpeaker system is try to find any documentation. There really isn’t much — a [very spartan landing page](http://respeaker.io/), and a [ill-attended forum.](http://www.seeed.cc/topics.html?t=respeaker) I attached the mic array board to the top of the MediaTek board, fingers crossed I had the right orientation, plugged in the micro USB cable to my mac, and watched some LEDs spin around. Very pretty! But I wanted to dig in a little more than that. I noted my Mac gained a new serial port, so I blindly tried to connect to it using screen at 115200 bps, and got this magical login screen:
 
-![7SxXhN1](images/7sxxhn12.png "7SxXhN1.png")
+![7SxXhN1](/images/7sxxhn12.png "7SxXhN1.png")
 
 Looks like the MediaTek board is running [OpenWrt.](https://openwrt.org/) Poking around, you can see that the mic array is attached over USB, and there is a python library for getting audio from the board as well as control over the LEDs over [USB HID.](https://en.wikipedia.org/wiki/USB_human_interface_device_class) The Python library led me to an in-progress but [official getting started page](https://github.com/respeaker/get_started_with_respeaker), so I took the time to set up the WiFi on the board and try out some of the examples. 
 
