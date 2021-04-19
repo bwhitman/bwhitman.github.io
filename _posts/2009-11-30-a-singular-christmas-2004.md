@@ -2,6 +2,7 @@
 layout: post
 title: "A Singular Christmas (2004)"
 date: "2009-11-30"
+summary: The history of the first machine learning generated album, released in 2004
 ---
 
 <img src="/images/xmas2.png" class="big">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Understanding the brand new"
+summary: Why focus on the as-yet unpopular
 date: "2015-07-31"
 ---
 

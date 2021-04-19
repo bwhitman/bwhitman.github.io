@@ -2,6 +2,7 @@
 layout: post
 title: "How music recommendation works -- and doesn't work"
 date: "2012-12-11"
+summary: How Echo Nest works, and the state of music recommendations in 2012
 tags: 
   - "echo-nest"
   - "echonest"
@@ -39,6 +40,7 @@ When people talk about “music recommendation” or “music discovery” they 
 - **Playlist generation**: Most consumers of music discovery are using some form of playlist generation. This is different from the above two in that they receive a list of items in some order (usually meant to be listened to at the time.) The playlist can be personalized (from a user model) or not, and it can be within catalog (your own music, ala iTunes Genius’s or Google’s Instant Mix playlists) or not (Pandora, Spotify’s or Rdio’s radio, iHeartRadio.) The playlist should vary artists and types of songs as it progresses, and many rely on some form of steering or feedback (thumbs up, skips, etc.)
 
 Where popular services sit in discovery 
+
 |  | Personalized | Anonymous |
 | --- | --- | --- |
 | **Playlist** | Pandora | Rdio radio |
@@ -51,14 +53,15 @@ However, the application means a lot to the listener. People seem to love playli
 My (highly educated, but please know I have no direct inside information except for Echo Nest of course) guesses on the data sources are:
 
 How popular services know about music 
+
 | Service | Source of data |
 | --- | --- |
 | Pandora | Musicologists take surveys |
 | Songza | Editors or music fans make playlists |
-| Last.fm | Activity data, tags on artists and songs, acoustic analysis[\[1\]](1 "see footnote") |
+| Last.fm | Activity data, tags on artists and songs, acoustic analysis (1) |
 | All music guide | Music editors & writers |
 | Amazon | Purchase & browsing history |
-| iTunes Genius | Purchase data, activity data from iTunes[\[2\]](2 "see footnote") |
+| iTunes Genius | Purchase data, activity data from iTunes (2) |
 | Echo Nest | Acoustic analysis, text analysis |
 
 There are many other discovery platforms but this list covers the widest swath of approaches. Many services you interact with use either these platforms directly (Last.fm, Echo Nest, AMG all license data or give away data through APIs) or use similar enough approaches that it’d be not worth going into in detail.
@@ -99,7 +102,7 @@ _Care_ is a trickier concept and one we’ve tried very hard to define and encod
 
 _Top artist similars are all members of the Beatles_
 
-Certainly a statistically correct result[\[3\]](3 "see footnote"), but not a musically informative one. There is so much that user data can tell you about listening habits, but blindly using it to inform discovery belies a lack of care about the final result. Care is neatly handled by using social, manual or editorial approaches, as humans are pretty good at treating music properly. But when using more statistical or signal processing approaches that know about more music at scale, care has to be factored in somehow. Most purely signal processing approaches (such as Mufin here) fall down as badly on care as activity data approaches do:
+Certainly a statistically correct result (3), but not a musically informative one. There is so much that user data can tell you about listening habits, but blindly using it to inform discovery belies a lack of care about the final result. Care is neatly handled by using social, manual or editorial approaches, as humans are pretty good at treating music properly. But when using more statistical or signal processing approaches that know about more music at scale, care has to be factored in somehow. Most purely signal processing approaches (such as Mufin here) fall down as badly on care as activity data approaches do:
 
 ![Mufin expressing so little care about Stairway to Heaven](/images/CLPvt.png)
 
@@ -119,7 +122,7 @@ _Care & Scale of common approaches_
 
 _Echo Nest Cultural vectors_
 
-I started doing music analysis work in 1999 at the NEC Research Institute in Princeton, NJ (I had scammed them into an internship and then a full time job by being very persistent.) NEC was then full of the top tier of data mining, text retrieval, machine learning and natural language processing (NLP[\[4\]](4 "see footnote")) scientists; I had the great fortune to work with guys like [Steve Lawrence](http://en.wikipedia.org/wiki/Steve_Lawrence_(computer_scientist)), [Gary Flake](http://en.wikipedia.org/wiki/Gary_William_Flake), [David Waltz](http://www.nytimes.com/2012/03/24/science/david-l-waltz-computer-science-pioneer-dies-at-68.html) and even [Vladimir Vapnik](http://en.wikipedia.org/wiki/Vladimir_Vapnik) moved into my tiny office after I left for MIT.
+I started doing music analysis work in 1999 at the NEC Research Institute in Princeton, NJ (I had scammed them into an internship and then a full time job by being very persistent.) NEC was then full of the top tier of data mining, text retrieval, machine learning and natural language processing (NLP) (4) scientists; I had the great fortune to work with guys like [Steve Lawrence](http://en.wikipedia.org/wiki/Steve_Lawrence_(computer_scientist)), [Gary Flake](http://en.wikipedia.org/wiki/Gary_William_Flake), [David Waltz](http://www.nytimes.com/2012/03/24/science/david-l-waltz-computer-science-pioneer-dies-at-68.html) and even [Vladimir Vapnik](http://en.wikipedia.org/wiki/Vladimir_Vapnik) moved into my tiny office after I left for MIT.
 
 I was there while figuring out what to do with myself after abruptly quitting my PhD program in NLP at Columbia. I was a musician at the time, playing a lot of shows at various warehouse spaces or the lamented late “Brownies,” places where 20 people might show up and 10 would know who you were. There was a lot of excitement about “the future of music” – far more than there is today, as somehow we felt that the right forces would win and quickly. I logged onto Napster for the first time from a DSL connection and practically squealed in delight as a song could be downloaded faster than the time it would take to listen to it. It was a turning point for music access, but probably a step back for music _discovery_. We were still stuck with this:
 
@@ -151,7 +154,7 @@ The internet is not the [Library of Babel](https://gist.github.com/3185350) we e
 
 Can a computer _really listen_ to music? A lot of people have promised it can over the years, but I’ve (personally) never heard a fully automated recommendation based purely on acoustic analysis that made any sense – and I’ve heard them all, from academic papers to startups to our own technology to big-company efforts. And that has a lot to do with the expectations of the listener. There are certain things computers are very good and fast at doing with music, like determining the tempo or key, or how loud it is. Then there are harder things that will get better as the science evolves, like time signature detection, beat tracking over time, transcription of a dominant melody, and instrument recognition. But even if a computer were to predict all of these features accurately, does that information really translate into a good recommendation? Usually not – and we’ve shown over the years that people’s expectation of “similar” – either in a playlist or a list of artists or songs – trends heavily towards the cultural side, something that no computer can get at simply by analyzing a signal.
 
-But it does turn out that acoustic analysis has a huge part to play in our algorithms. People expect playlists to be smooth and not jump around too much. Quiet songs should not be followed with loud metal benders (unless the listener asked for that.) For jogging, the tempo should steadily increase. Most coherent mixes should keep the instrumentation generally stable. Songs should flow into one another like a DJ would program them, keeping tempo or key consistent. And there’s a ton we haven’t figured out yet on the interface side. Could a “super dorky query interface” work for music recommendation, where a listener can filter by dominant key or loudness dynamics? Maybe with the right user experience. An early product out of the Echo Nest[\[5\]](5 "see footnote") was an “intelligent pause button” that Tristan whipped up that would compose a repeating segment out of the part of the song you were in or just play the song roughly forever ([check out an automated 10 minute MP3 re-edit of a Phoenix song](http://dl.dropbox.com/u/394242/mp3s/phoenix_10.mp3)) – which a few years later became Paul’s amazing [Infinite Jukebox](http://infinitejuke.com) – these experiments are fascinating precursors to a new listening experience that might become more important than discovery itself.
+But it does turn out that acoustic analysis has a huge part to play in our algorithms. People expect playlists to be smooth and not jump around too much. Quiet songs should not be followed with loud metal benders (unless the listener asked for that.) For jogging, the tempo should steadily increase. Most coherent mixes should keep the instrumentation generally stable. Songs should flow into one another like a DJ would program them, keeping tempo or key consistent. And there’s a ton we haven’t figured out yet on the interface side. Could a “super dorky query interface” work for music recommendation, where a listener can filter by dominant key or loudness dynamics? Maybe with the right user experience. An early product out of the Echo Nest (5) was an “intelligent pause button” that Tristan whipped up that would compose a repeating segment out of the part of the song you were in or just play the song roughly forever ([check out an automated 10 minute MP3 re-edit of a Phoenix song](http://dl.dropbox.com/u/394242/mp3s/phoenix_10.mp3)) – which a few years later became Paul’s amazing [Infinite Jukebox](http://infinitejuke.com) – these experiments are fascinating precursors to a new listening experience that might become more important than discovery itself.
 
 [The Echo Nest audio analysis engine](http://docs.echonest.com.s3-website-us-east-1.amazonaws.com/_static/AnalyzeDocumentation.pdf) (PDF) contains a suite of machine listening processes that can take any audio file and outputs both low-level (such as the time of when every beat starts) and high-level (such as the overall “danceability”) information for any song in the world. We analyze all the music we work with, and developers can upload their own audio to see everything we compute on a track via our API. Our analysis starts by pretending it was an ear: it will model the frequencies and loudness of a musical signal much the same way perceptual codecs like MP3 or AAC do. It then segments the audio into small pieces – roughly 200ms to 4s, depending on how fast things are happening in the song. For each segment we can tell you the pitch (in a 12-dimensional vector called _chroma_), the loudness (in an ADSR-style envelope) and the timbre, which is another 12 dimensional vector that represents the sound of the sound – what instruments there are, how noisy it is, etc. It also tracks beats across the signal, in subdivisions of the musical meter called _tatums_, and then per beat and bar, alongside larger song-level structure we call sections that denote choruses, intros, bridges and verses.
 

@@ -2,6 +2,7 @@
 layout: post
 title: "The Echo Nest joins Spotify"
 date: "2014-03-06"
+summary: The next step for The Echo Nest
 ---
 
 [![](/images/tumblr_inline_n1zjjaY2yq1qzn1md.png)](http://t.umblr.com/redirect?z=http%3A%2F%2Faps.s3.amazonaws.com%2FvXeGK.png&t=ZDAyNjYzN2UwOTkzOTVhYzRlZTlhMjFiY2JkNDZkOTM0M2JlZGZlZCw4amdKQ085Zw%3D%3D&b=t%3AwjfNZyWYw93f_2TQUIL_mw&m=1)

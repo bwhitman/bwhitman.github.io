@@ -40,7 +40,7 @@ I mostly do it with music. People know pretty much everything about every song e
 
 I’ve been doing it for a while, this was 2003, a thing called “Eigenradio.” it took every radio station I could get in a live stream at the time, at once, and figured out how to do basis computation and resynthesis in a sort of live stream back. The idea was to be “computer music.” Not music made on a computer, because everything is. But music for computers. What they think music actually is. It mostly sounded like this:
 
-\[soundcloud url="https://api.soundcloud.com/tracks/124178688" params="color=ff6600&auto\_play=false&show\_artwork=true" width="100%" height="166" iframe="true" /\]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124178688&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bwhitman" title="bwhitman" target="_blank" style="color: #cccccc; text-decoration: none;">bwhitman</a> · <a href="https://soundcloud.com/bwhitman/wander-eyeball-from-eigenradio" title="Wander Eyeball (from Eigenradio)" target="_blank" style="color: #cccccc; text-decoration: none;">Wander Eyeball (from Eigenradio)</a></div>
 
 ![A Singular Christmas](/images/asc.010.jpg)
 
@@ -52,7 +52,7 @@ I have this whole other life that I’m not going to get into, but it involves k
 
 ![A Singular Christmas](/images/asc.012.jpg)
 
-\[soundcloud url="https://api.soundcloud.com/tracks/1000877" params="color=ff6600&auto\_play=false&show\_artwork=true" width="100%" height="166" iframe="true" /\]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1000877&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bwhitman" title="bwhitman" target="_blank" style="color: #cccccc; text-decoration: none;">bwhitman</a> · <a href="https://soundcloud.com/bwhitman/07-berries-sleeping" title="07 Berries sleeping" target="_blank" style="color: #cccccc; text-decoration: none;">07 Berries sleeping</a></div>
 
 ![A Singular Christmas](/images/asc.013.jpg)
 
@@ -60,7 +60,7 @@ Do you want to know the magic trick? But doing this taught me one important less
 
 ![A Singular Christmas](/images/asc.014.jpg)
 
-\[soundcloud url="https://api.soundcloud.com/tracks/1000872" params="color=ff6600&auto\_play=false&show\_artwork=true" width="100%" height="166" iframe="true" /\]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1000872&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bwhitman" title="bwhitman" target="_blank" style="color: #cccccc; text-decoration: none;">bwhitman</a> · <a href="https://soundcloud.com/bwhitman/02-mountain-noel" title="02 Mountain noel" target="_blank" style="color: #cccccc; text-decoration: none;">02 Mountain noel</a></div>
 
 ![A Singular Christmas](/images/asc.015.jpg)
 
@@ -70,4 +70,4 @@ This thing got everywhere. By far the most successful creative thing I’ve done
 
 My favorite things are the emails. Every December, right around now, they start slowly rolling in. How this album is the only thing they listen to during the holidays. How it means Christmas to them. I’m still working on this stuff, as a sort of hedge against my more mundane realities. I want to show the world there’s beauty in the act of understanding.
 
-\[soundcloud url="https://api.soundcloud.com/tracks/1000888" params="color=ff6600&auto\_play=false&show\_artwork=true" width="100%" height="166" iframe="true" /\]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1000888&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bwhitman" title="bwhitman" target="_blank" style="color: #cccccc; text-decoration: none;">bwhitman</a> · <a href="https://soundcloud.com/bwhitman/16-holy-night" title="16 Holy night" target="_blank" style="color: #cccccc; text-decoration: none;">16 Holy night</a></div>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Canopy is joining CNN"
+summary: A note on what's next for Canopy
 date: "2020-04-07"
 ---
 

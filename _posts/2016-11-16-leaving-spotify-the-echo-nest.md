@@ -2,6 +2,7 @@
 layout: post
 title: "Leaving Spotify & The Echo Nest"
 date: "2016-11-16"
+summary: A goodbye note (for now) to music discovery
 ---
 
 My last day at Spotify was last week. I’m _not_ working on music discovery for the first time in my life since May 2000. I’m going to take some time off to finish some personal projects and start something new in 2017. I love Spotify: the people, the product, the creators, the users, and the mission. Their acquisition of my company The Echo Nest in 2014 was excellent for everyone involved but especially for artists and listeners. We’ve changed the landscape of music. It took me a long time to come to this decision, but it’s now time for me to learn more things and try something new.
