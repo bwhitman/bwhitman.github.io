@@ -14,3 +14,4 @@ title: About
 <p>You can reach me over email &#8212; <a href="mailto:brian@variogr.am">brian@variogr.am</a></p>
 
 <p>You can also <a href="https://twitter.com/bwhitman">follow me on Twitter</a>. (But I&#8217;m currently on a long, and highly recommended break from all social media, apologies!)</p>
+
