@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A better way to discover things"
-summary: A thesis statment for Canopy
+summary: A thesis statement for Canopy
 date: "2019-05-17"
 ---
 
