@@ -39,17 +39,47 @@ img {
     }
 }
 
+p.middle {
+    position: relative; 
+    display:block;
+    margin-top:0;
+    margin-bottom:50px;
+    font-size: 12px;
+}
+p.small {
+    left: calc(50% - 500px);
+    position: relative; 
+    display:block;
+    margin-top:0;
+    margin-bottom:50px;
+    font-size: 12px;
+       @media(max-width:1000px) {
+        left: auto;
+        width: 100%;
+    }    
+}
+
+p.note {
+    position: relative; 
+    display:block;
+    margin-top:0;
+    margin-bottom:50px;
+    font-size: 12px;
+}
+
 img.big {
     height: auto;
     left: calc(50% - 500px);
     position: relative;
     width: 1000px;
+    margin-top:20px;
 
     @media(max-width:1000px) {
         left: auto;
         width: 100%;
     }    
 }
+
 
 nav {
     ul {
