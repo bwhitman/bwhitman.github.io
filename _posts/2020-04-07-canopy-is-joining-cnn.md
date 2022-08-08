@@ -3,6 +3,7 @@ layout: post
 title: "Canopy is joining CNN"
 summary: What's next for Canopy
 date: "2020-04-07"
+image: canopy-cnn.png
 ---
 
 <img src="/images/canopy-cnn.png" class="big"/>

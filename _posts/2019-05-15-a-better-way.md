@@ -3,6 +3,7 @@ layout: post
 title: "A better way to discover things"
 summary: A thesis statement for Canopy
 date: "2019-05-17"
+image: 5d7d4be1a3db083a0e339bfd_oldway.png
 ---
 
 <P>(First appeared on the Canopy blog)

@@ -3,6 +3,7 @@ layout: post
 title: "Understanding the brand new"
 summary: Announcing Fresh Finds and why focus on the as-yet unpopular
 date: "2015-07-31"
+image: LMfSS.png
 ---
 
 
