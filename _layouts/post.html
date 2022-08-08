@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
+  <head>
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.summary }}" />
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% if page.image %}
+    <meta content="{{ site.url }}/images/{{ page.image }}" property="og:image">
+{% endif %}
   {% include head.html %}
-
+  </head>
   <body class="individual-post">
 
     {% include masthead.html %}

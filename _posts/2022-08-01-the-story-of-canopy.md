@@ -3,6 +3,7 @@ layout: post
 title: "The Story of Canopy"
 summary: Getting personalization right matters 
 date: "2022-08-01"
+image: canoboard.jpg
 ---
 <img src="/images/canoboard.jpg" class="big"/>
 <p class="small">Urcella and I trying to figure out a name for the company, late 2017. Way ahead on the Elon curve!</p>
