@@ -45,7 +45,7 @@ Quadra Island BC, August 2022
 
 
 
-<p class='note'>Canopy would not have been possible without everyone that worked with us. In a general chronological order, that's Phil Bowden, Ben Recht, Dave Blei, Urcella DiPietro, Joe Morrison, Calvin Chin & Habib Haddad, Jim Lucchese, Tristan Jehan, Steve Martocci, Oskar Stal, Max Krohn, Shiva Rajamaran, Jesse Walden & Denis Nazarov, Ryan Purcell, Antonio Rodriguez, Dan Stowell, Joe Delfino, Annika Goldman, Emma Tangoren, Graham James, Zane Selkirk, Laurent Paris, Bassey Etim, Erica Greene, Madison Fitch, James Kirk, Tom Ristenpart, Janelle Benjamin-Grant, Allison Burtch, Sarah Rich, Tim Su, Matt Ogle, Laima Tazmin, Sarah Dean, Gabe Valdivia, Chris Matysik, Amie Green, Kelly McCusker, Christina Hawkes, Robyn Peterson, Brennan Gerster, Andrew Morse. You're all great. </p>
+<p class='note'>Canopy would not have been possible without everyone that worked with us. In a general chronological order, that's Phil Bowden, Ben Recht, Dave Blei, Urcella DiPietro, Joe Morrison, Calvin Chin & Habib Haddad, Jim Lucchese, Tristan Jehan, Steve Martocci, Oskar Stal, Max Krohn, Shiva Rajamaran, Jesse Walden & Denis Nazarov, Ryan Purcell, Antonio Rodriguez, Dan Stowell, Joe Delfino, Annika Goldman, Emma Tangoren, Graham James, Zane Selkirk, Bassey Etim, Erica Greene, Madison Fitch, James Kirk, Tom Ristenpart, Janelle Benjamin-Grant, Allison Burtch, Sarah Rich, Tim Su, Matt Ogle, Laima Tazmin, Sarah Dean, Gabe Valdivia, Chris Matysik, Amie Green, Kelly McCusker, Christina Hawkes, Robyn Peterson, Brennan Gerster, Andrew Morse. You're all great. </p>
 
 
 
