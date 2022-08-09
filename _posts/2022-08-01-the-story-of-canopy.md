@@ -38,7 +38,7 @@ During the latter half of 2019 we faced a series of decisions on the future of t
 
 A version of the Canopy model powers CNN's digital apps, where hundreds of millions of people use to discover what's happening in their world. Our approach outperformed more complex in-house solutions while keeping Canopy's principles alive. That is to say: it's also just a really good recommender. Yet models and approaches change, as they always do. What mattered was the influence: by just bringing our ideals to light while implementing what most people would consider a "table stakes" recommender algorithm, the team there have built a personalization product that optimizes for diversity of content, a strong bridge between product and editorial, and above all, respect for the audience and the journalists. If we could get this done at CNN scale, I know there's hope beyond. 
 
-Since I left CNN, I've been completing two long-standing personal projects while also planning my next move. [I'll be sharing details here](https://notes.variogr.am/) of those soon. There's still much to do and I'm invigorated by the ongoing challenge and everything our team did at Canopy. Please drop a line if you'd like to chat about anything. 
+Since I left CNN, I've been completing two long-standing personal projects while also planning my next move. [I'll be sharing details here](https://notes.variogr.am/) of those soon. There's still much to do and I'm invigorated by this ongoing challenge and everything our team did at Canopy -- even, and _especially_ when it got hard. Please drop a line if you'd like to chat about anything. 
 
 -- 
 Quadra Island BC, August 2022
