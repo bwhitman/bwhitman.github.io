@@ -20,7 +20,7 @@ I’m taking about three months off to rest, regroup, visit companies and friend
 
 Please reach out if you’d like to chat. You’re all great.
 
-Brian [brian@variogr.am](mailto:brian@variogr.am)
+Brian [brian@variogram.com](mailto:brian@variogram.com)
 
 Greenpoint NYC
 
