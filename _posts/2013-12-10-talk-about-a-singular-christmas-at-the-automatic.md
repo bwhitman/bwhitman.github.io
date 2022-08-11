@@ -4,7 +4,7 @@ title: "Talk about A Singular Christmas at the Automatic Music Hackathon"
 date: "2013-12-10"
 ---
 
-I gave a talk about my [A Singular Christmas](http://notes.variogr.am/post/262976984/a-singular-christmas-2004) at the [Automatic Music Hackathon](http://monthlymusichackathon.org/post/67866125715/auto) last week. Here’s what it looked like and what I said.
+I gave a talk about my [A Singular Christmas](http://notes.variogram.com/post/262976984/a-singular-christmas-2004) at the [Automatic Music Hackathon](http://monthlymusichackathon.org/post/67866125715/auto) last week. Here’s what it looked like and what I said.
 
 ![A Singular Christmas](/images/asc.001.jpg)
 

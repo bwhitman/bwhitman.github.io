@@ -5,7 +5,7 @@ title: About
 
 <p>I&#8217;m <a href="https://scholar.google.com/citations?user=eiTakp4AAAAJ&amp;hl=en">a scientist</a> (machine learning, personalization &amp; information retrieval) and a startup person. I'm currently just beginning work on a new (yet unnammed) startup. 
 
-<P>I was Chief Scientist at <a href="https://cnn.com">CNN</a> until early 2022, working on news personalization and related ethical issues. I joined via their acqusition of my startup, <a href="https://notes.variogr.am/2022/08/01/the-story-of-canopy/">Canopy</a>, where we built a new fully private and explainable personalization stack. 
+<P>I was Chief Scientist at <a href="https://cnn.com">CNN</a> until early 2022, working on news personalization and related ethical issues. I joined via their acqusition of my startup, <a href="https://notes.variogram.com/2022/08/01/the-story-of-canopy/">Canopy</a>, where we built a new fully private and explainable personalization stack. 
 
 <P>Before that, I was the co-founder &amp; CTO of music intelligence company <A href="/2015/07/14/10-years/">The Echo Nest</A>, sold to Spotify in 2014, where I was Principal Scientist until 2016. At Spotify I helped build their <a href="https://research.atspotify.com">research team</a> and focused on <a href="/2015/07/31/fresh-finds/">discovery of brand new music</a>. 
 
@@ -15,7 +15,7 @@ title: About
 
 <p>I live both in Fort Greene, Brooklyn, and <a href="https://en.wikipedia.org/wiki/Quadra_Island">Quadra Island</a>, BC, Canada. </p>
 
-<p>You can reach me over email &#8212; <a href="mailto:brian@variogr.am">brian@variogr.am</a></p>
+<p>You can reach me over email &#8212; <a href="mailto:brian@variogram.com">brian@variogram.com</a></p>
 
 <p>You can also <a href="https://twitter.com/bwhitman">follow me on Twitter</a>. (But I&#8217;m currently on a long, and highly recommended break from all social media, apologies!)</p>
 

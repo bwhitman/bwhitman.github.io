@@ -12,7 +12,7 @@ Five years ago today I released “A Singular Christmas,” the rendered output 
 
 While I’m sure the vast majority of those hundreds of thousands heard just the first few seconds of the first song before closing their browser, I quite liked “A Singular Christmas” (I can say this because the _computer_ made it, not me!) and each holiday season I’ll get a few nice emails from likeminded people reminiscing about it and asking where to listen to it. As I was a PhD candidate at the MIT Media Lab when I made the record, every single year since the release– in between board meetings and key-value store rebuilds or whatever the hell it is I do with myself these days– I’ve had to ask a current student to find the computer that it was hosted on and plug it back in as a new consortium or robot displaces the latest server closet there constantly. But I’ve had it with self-hosting, this year I am going to the cloud – my blog here at Tumblr can take care of the adjoining text while my good friends at [SoundCloud](http://soundcloud.com) are graciously hosting the audio. Maybe it’ll stay up for more than a week.
 
-Enjoy, happy holidays, [please write](mailto:brian@variogr.am), xo, -b
+Enjoy, happy holidays, [please write](mailto:brian@variogram.com), xo, -b
 
 - [Listen and download](#listen)
 - [Statement & Methodology](#description)

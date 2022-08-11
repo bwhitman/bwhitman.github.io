@@ -70,7 +70,7 @@ image: 5d7d4be1a3db083a0e339bfd_oldway.png
                         At Canopy, we believe strongly that learning about content is more important than trying to amplify engagement. As an example of how context-less engagement systems could go wrong, a video recommender may find latent patterns in the idle history of the service’s users -- an average person might watch a sports clip then, due to further personalization via search, “up next” or social, find something unrelated, which feeds back into the recommender model as a correlation. What’s missing in this sort of “collaborative filtering” approach is a notion of what the underlying media is 
                         <em>about</em>
                         . Just like the 
-                        <a href="https://notes.variogr.am/2012/12/11/how-music-recommendation-works-and-doesnt-work/">last company</a>
+                        <a href="https://notes.variogram.com/2012/12/11/how-music-recommendation-works-and-doesnt-work/">last company</a>
                          a few Canopy employees were involved in, we believe strongly in learning as much about the underlying content as we do matching peoples’ interactions against each other. We have already built a suite of content analysis approaches that can also find the inherent similarities between lots of types of content. This lets us unpack the model with more underlying understanding of the 
                         <em>why</em>
                         : “you enjoyed something about whales, and we figured you may want to watch this documentary about nature.” It also helps us prioritize niche content: finding underserved types of discoveries.
