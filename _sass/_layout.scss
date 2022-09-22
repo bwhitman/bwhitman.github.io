@@ -13,6 +13,30 @@ hr {
     width: 100%;
 }
 
+button.submit {
+    font-size: 20px;    
+}
+input.form {
+    font-size: 20px;
+}
+select.form {
+    font-size: 20px;
+}
+div.reg {
+    height: auto;
+    left: calc(50% - 500px);
+    position: relative;
+    width: 1000px;
+    margin-top:20px;
+
+    @media(max-width:1000px) {
+        left: auto;
+        width: 100%;
+    }    
+    padding: 20px;
+    background: pink;
+}
+
 table {
     border-collapse: collapse;
     text-align: left;
@@ -59,6 +83,19 @@ p.small {
     }    
 }
 
+p.centersmall {
+    /*left: calc(50% - 500px);*/
+    position: relative; 
+    display:block;
+    margin-top:0;
+    margin-bottom:50px;
+    font-size: 12px;
+       @media(max-width:1000px) {
+        left: auto;
+        width: 100%;
+    }    
+}
+
 p.note {
     position: relative; 
     display:block;
@@ -72,6 +109,19 @@ img.big {
     left: calc(50% - 500px);
     position: relative;
     width: 1000px;
+    margin-top:20px;
+
+    @media(max-width:1000px) {
+        left: auto;
+        width: 100%;
+    }    
+}
+
+video.big {
+    height: auto;
+    left: calc(75% - 500px);
+    position: relative;
+    width: 720px;
     margin-top:20px;
 
     @media(max-width:1000px) {
