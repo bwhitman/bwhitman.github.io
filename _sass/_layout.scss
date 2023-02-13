@@ -117,6 +117,19 @@ img.big {
     }    
 }
 
+img.medium {
+    height: auto;
+    left: calc(50% - 375px);
+    position: relative;
+    width: 750px;
+    margin-top:20px;
+
+    @media(max-width:750px) {
+        left: auto;
+        width: 100%;
+    }    
+}
+
 video.big {
     height: auto;
     left: calc(75% - 500px);
