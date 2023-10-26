@@ -17,5 +17,5 @@ title: About
 
 <p>You can reach me over email &#8212; <a href="mailto:brian@variogram.com">brian@variogram.com</a></p>
 
-<p>You can also <a href="https://twitter.com/bwhitman">follow me on Twitter</a> or <a href="https://hachyderm.io/@bwhitman">Mastodon</a>.</p>
+<p>You can also follow me on <a href="https://hachyderm.io/@bwhitman">Mastodon</a>.</p>
 
