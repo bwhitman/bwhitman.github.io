@@ -3,15 +3,16 @@ layout: page
 title: About
 ---
 
-<p>I&#8217;m <a href="https://scholar.google.com/citations?user=eiTakp4AAAAJ&amp;hl=en">a scientist</a> (machine learning, recommendation &amp; information retrieval) and <a href="https://www.linkedin.com/in/brianwhitman/">a startup person.</a> I really love finding gems for people automatically -- their next favorite song or article. And I care about doing it right - with the most control and transparency for the fan and creator, treating the work and their privacy and attention with respect.
+<p>I&#8217;m <a href="https://scholar.google.com/citations?user=eiTakp4AAAAJ&amp;hl=en">a scientist</a> (machine learning, recommendation &amp; information retrieval) and <a href="https://www.linkedin.com/in/brianwhitman/">a startup person.</a> I really love finding gems for people automatically -- their next favorite song, artist or article. And I care about doing it right - with the most control and transparency for the fan and creator, treating their creative work, privacy and attention with respect.
 
-<p>These days I work in a small team with a bunch of companies, some you use every day and some brand new startups. I work across music, the news, the weather, dating, AI and creators. I help them with research or strategy, or build recommenders with them to help find new fans, or tools for surfacing creators' work to as many people as possible. You've definitely used some of our work online recently! If you think I can help, <a href="mailto:brian@variogram.com">please reach out.</a>
-
-<p>I also build <a href="https://github.com/shorepine">synthesziers with my friend DAn!</a> We make the <A href="https://tulip.computer/">Tulip Creative Computer</A>, the <a href="https://notes.variogram.com/2022/09/23/alles-amy/">distributed mesh music synthesizer, Alles</a>, and the forthcoming modular programmable synth <A href="https://amyboard.com">AMYboard</A>. 
-
-<P>I was Chief Scientist at <a href="https://cnn.com">CNN</a> until 2022, working on news personalization and related ethical issues. I joined via their acqusition of my startup, <a href="https://notes.variogram.com/2022/08/01/the-story-of-canopy/">Canopy</a>, where we built a new fully private and explainable personalization stack. 
+<P>I was Chief Scientist at <a href="https://cnn.com">CNN</a> until 2022. I joined via their acqusition of my startup, <a href="https://notes.variogram.com/2022/08/01/the-story-of-canopy/">Canopy</a>, where we built a new fully private and explainable personalization stack. 
 
 <P>Before that, I was the co-founder &amp; CTO of music intelligence company <A href="/2015/07/14/10-years/">The Echo Nest</A>, sold to Spotify in 2014, where I was Principal Scientist until 2016. At Spotify I helped build their <a href="https://research.atspotify.com">research team</a> and focused on <a href="/2015/07/31/fresh-finds/">discovery of brand new music</a>. 
+
+<p>These days I get to work with a bunch of great people and companies, some you use every day and some brand new startups. I help with research and strategy and get teams to build amazing recommenders with music, news, the weather, creators or new AI platforms, always with the goal of surfacing creators' work to as many people as possible. You've definitely used some of our stuff online recently! If you think I can help, <a href="mailto:brian@variogram.com">please reach out.</a>
+
+<p>I also build synthesziers with my friend DAn! We make the <A href="https://tulip.computer/">Tulip Creative Computer</A>, the <a href="https://notes.variogram.com/2022/09/23/alles-amy/">distributed mesh music synthesizer, Alles</a>, and the forthcoming modular programmable synth <A href="https://amyboard.com">AMYboard</A>. 
+
 
 <p>I was an <a href="/2009/11/30/a-singular-christmas-2004/">artist / musician</a> (ex-&#8220;<a href="https://soundcloud.com/bwhitman">Blitter</a>&#8220;) from the late 90s through mid-00s.</p>
 
