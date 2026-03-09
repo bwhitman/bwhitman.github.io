@@ -14,7 +14,7 @@ title: About
 <p>I also build synthesziers with my friend DAn! We make the <A href="https://tulip.computer/">Tulip Creative Computer</A>, the <a href="https://notes.variogram.com/2022/09/23/alles-amy/">distributed mesh music synthesizer, Alles</a>, and the forthcoming modular programmable synth <A href="https://amyboard.com">AMYboard</A>. 
 
 
-<p>I was an <a href="/2009/11/30/a-singular-christmas-2004/">artist / musician</a> (ex-&#8220;<a href="https://soundcloud.com/bwhitman">Blitter</a>&#8220;) from the late 90s through mid-00s.</p>
+<p>I was an <a href="/2009/11/30/a-singular-christmas-2004/">artist / musician</a> (ex-&#8220;<a href="https://soundcloud.com/bwhitman">Blitter</a>&#8220;)</p>
 
 <p>I received an MS in computer science at the Natural Language Processing group at Columbia University, then a PhD in machine learning and music understanding at MIT.</p>
 
