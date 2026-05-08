@@ -1,6 +1,6 @@
 # Permalinks
 permalink:           pretty
-future: false
+future: true
 
 # Setup
 title:               'Brian Whitman'

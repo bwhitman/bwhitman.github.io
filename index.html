@@ -10,6 +10,7 @@ Hi, I'm Brian, I'm a <a href="/about">scientist and startup person focusing on r
 
 <div class="posts">
   {% for post in paginator.posts %}
+    {% if post.hidden %}{% continue %}{% endif %}
     <article class="post" role="article">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }} 
