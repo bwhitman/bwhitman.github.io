@@ -11,7 +11,7 @@ title: About
 
 <p>These days I get to work with a bunch of great people and companies, some you use every day and some brand new startups. I help with research and strategy and get teams to build amazing recommenders with music, news, the weather, creators or new AI platforms, always with the goal of surfacing creators' work to as many people as possible. You've definitely used some of our stuff online recently! If you think I can help, <a href="mailto:brian@variogram.com">please reach out.</a></p>
 
-<p>I also build synthesziers with my friend DAn! We make the <A href="https://tulip.computer/">Tulip Creative Computer</A>, the <a href="https://notes.variogram.com/2022/09/23/alles-amy/">distributed mesh music synthesizer, Alles</a>, and the forthcoming modular programmable synth <A href="https://amyboard.com">AMYboard</A>. </p>
+<p>I also build synthesziers with my friend DAn! We make the <A href="https://variogram.com/2024/07/30/tulip-available/">Tulip Creative Computer</A>, the <a href="https://notes.variogram.com/2022/09/23/alles-amy/">distributed mesh music synthesizer, Alles</a>, and the  modular programmable synth <A href="/2026/05/18/amyboard/">AMYboard</A>. </p>
 
 <p>I was an <a href="/2009/11/30/a-singular-christmas-2004/">artist / musician</a> (ex-&#8220;<a href="https://soundcloud.com/bwhitman">Blitter</a>&#8220;) a while back and still make some music.</p>
 
